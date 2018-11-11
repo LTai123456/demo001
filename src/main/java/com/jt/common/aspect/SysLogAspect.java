@@ -20,6 +20,7 @@ import com.jt.sys.entity.SysLog;
  */
 @Aspect
 @Service
+//dfjfjdjfdjfjdjkdfjkfdjkfjkdkfjkdsfjdjksfdsfjkdfdjk
 public class SysLogAspect {
 	/**
 	 * @Around("")环绕通知:目标方法执行之前和之后都可以执行
